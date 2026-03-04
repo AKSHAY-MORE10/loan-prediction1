@@ -664,8 +664,8 @@ This project is created for educational purposes. Feel free to use, modify, and 
 ## 👨‍💻 Author
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [AKSHAY-MORE10](https://github.com/AKSHAY-MORE10)
+- Email: akshaybapumore.com
 
 ---
 
